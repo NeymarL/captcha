@@ -1,0 +1,15 @@
+# Created by Octave 4.0.0, Mon Feb 29 09:50:24 2016 CST <neymar@localhost.localdomain>
+# name: m
+# type: matrix
+# rows: 1
+# columns: 15
+ 2 4 8 16 32 64 128 256 512 1024 2048 4096 8192 16384 18000
+
+
+# name: accu
+# type: matrix
+# rows: 1
+# columns: 15
+ 0.5 0.5 0.5 1 1 1 1 0.5 1 0.5 1 1 1 1 1
+
+
