@@ -1,3 +1,3 @@
 # captcha
 
-## CAPTCHA recognition with [caffe](http://caffe.berkeleyvision.org/)
+## CAPTCHA recognition with Octave/Matlab
